@@ -1,3 +1,6 @@
 # tetris-react
 
-https://www.youtube.com/watch?v=ZGOaCxX8HIU
+
+<!-- ### Credit
+
+- Created this app with the tutorial in this [link](https://www.youtube.com/watch?v=ZGOaCxX8HIU) -->
